@@ -26,7 +26,7 @@
 
 $string['privacy:metadata'] = 'The Custom Error plugin does not store any personal data.';
 
-$string['pluginname'] = 'Custom Error';
+$string['pluginname'] = 'custom_error';
 $string['title'] = 'Custom Error';
 
 $string['error_404'] = 'Error 404';
